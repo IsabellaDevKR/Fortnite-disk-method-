@@ -24,6 +24,7 @@ Recently found a "maybe"? working disk method, it works in the way that when u g
   # STEP 5.
   - Once done you should have 2 unallocated "drives", right click one of them like shown in the image
   <img width="516" height="270" alt="image" src="https://github.com/user-attachments/assets/88d38721-c136-4081-8ea7-f6d06923bf10" />
+  
   Press "Initialize", select MBR (NOT GPT), make sure you selected both drives. Press OK, now exit disk management
 
   # STEP 6.
