@@ -35,6 +35,7 @@ Recently found a "maybe"? working disk method, it works in the way that when u g
   # STEP 8.
   - 90% completed, now check your serials!
   <img width="470" height="102" alt="image" src="https://github.com/user-attachments/assets/30df4cea-79cc-42ca-adcc-99eaecce99dc" />
+
   # Use this command->"wmic diskdrive get serialnumber"
 
   If you see a long serial like my pp, that means you're chilling, fortnite in my experience only bans the disk its installed on, install fortnite and play, make sure you cleaned and spoofed other serials, if you're retarded and dont know how to clean, just reinstall windows.
